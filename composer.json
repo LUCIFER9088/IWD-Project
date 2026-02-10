@@ -1,0 +1,9 @@
+{
+    "name": "lucifer9088/iwd-project",
+    "description": "Basic 2FA Verification Code Using PHP & MongoDB",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "mongodb/mongodb": "^1.15"
+    }
+}
